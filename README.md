@@ -7,11 +7,6 @@
 <h1>Due Date:</h1>
 <p>This project will reach its end in 2022-11-10</p>
 <hr>
-<h1>Reference List:</h1>
-<ul>
-
-</ul>
-<hr>
 <h1>Progress plan:</h1>
 <p>
     2022-11-08: <br>
